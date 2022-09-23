@@ -1,3 +1,3 @@
 # super-projet
 ## Projet collaboratif 
-### a faire :  ajouter un ficher '.gitignore'
+### a faire :  ajouter un ficher ’.gitignore’
